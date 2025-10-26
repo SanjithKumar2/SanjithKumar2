@@ -16,6 +16,3 @@
 <a href="https://medium.com/@sanjithkumar986" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sanjithkumar986" height="30" width="40" /></a>
 <a href="https://x.com/Sanjith773" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sanjithkumar986" height="30" width="40" /></a>
 </p>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjith-kumar-20&" alt="sanjith-kumar-20" /></p>
