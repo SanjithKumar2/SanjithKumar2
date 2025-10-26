@@ -4,13 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjith-kumar-20&label=Profile%20views&color=0e75b6&style=flat" alt="sanjith-kumar-20" /> </p>
 
 
-- 🔭 I’m currently working on **A lot of ML based and full stack development**
-
-- 🌱 I’m currently learning **Azure, AWS and full stack development**
-
-- 👯 I’m looking to collaborate on **Deep Learning based research**
-
-- 🤝 I’m looking for help with **App Development and Cloud**
+- **I LIKE NUMBER CRUNCHING AND NEURAL NETWORKS**
 
 - 📝 I regularly write articles on [https://medium.com/@sanjithkumar986](https://medium.com/@sanjithkumar986)
 
